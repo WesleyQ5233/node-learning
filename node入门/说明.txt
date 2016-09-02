@@ -1,0 +1,1 @@
+两个文件夹 一个是利用表单提交文字，一个是上传图片 都需要单独运行 入口文件都是index 大家调试时，可通过 npm install -g supervisor 然后通过supervisor index 调试
